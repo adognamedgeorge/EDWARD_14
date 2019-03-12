@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
+          <h2>老子的第一个react</h2>
           <a
             className="App-link"
             href="https://reactjs.org"
